@@ -1,0 +1,20 @@
+.about{
+    background-color:  #1abc9c;;
+}
+.about-tittle{
+    font-size: 40px;
+    color:#FFFFFF ;
+    font-weight: 700;
+}
+.about-tittle p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.line{
+    display: inline-block;
+    right: 18px;
+    width: 100px;
+    height: 5px;;
+    background-color: white;
+}
