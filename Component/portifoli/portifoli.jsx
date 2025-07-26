@@ -5,7 +5,7 @@ import im3 from '../../src/assets/portfolio/imgi_3_port3.png';
 import './portifoli.css'
 
 function Portfolio() {
-  const images = [im1, im2, im3, im3, im1, im1]; // نستخدم مصفوفة لتكرار الصور
+  const images = [im1, im2, im3, im3, im1, im1]; 
   const [selectedImage, setSelectedImage] = useState(null);
   const openModal = (image) => {
     console.log(image)
